@@ -24,6 +24,7 @@ pre-defined Vgg models in Pytorch to accept 3D inputs and other slight modificat
  training the model.
  
 #### [Information Processing](https://github.com/Jack-Weeks/Coding_Portfolio/tree/main/Information%20Processing)
+
 Information Processing in Medical Imaging (IPMI) Focused on the data pipeline from images recorded from medical devices 
 into practical use. Coding tasks were centred around the registration of two or more images to one another and Image segmentation algorithms
 
