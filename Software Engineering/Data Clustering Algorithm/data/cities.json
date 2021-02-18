@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Frutopia",
+        "lat": -10,
+        "long": 20,
+        "alt": 0,
+        "population": 100002
+    },
+    {
+        "name": "Sunnydale",
+        "lat": 118,
+        "long": 34,
+        "alt": 0,
+        "population": 38500
+    },
+    {
+        "name": "Tigana",
+        "lat": 50,
+        "long": -20,
+        "alt": 230,
+        "population": 300002
+    }
+]

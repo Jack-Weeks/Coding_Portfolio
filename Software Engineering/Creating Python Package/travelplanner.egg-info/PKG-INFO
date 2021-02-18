@@ -1,0 +1,13 @@
+Metadata-Version: 1.1
+Name: travelplanner
+Version: 0.0.1
+Summary: Plan your appropriate modes of transport for your journey
+Home-page: UNKNOWN
+Author: Jack Weeks
+Author-email: jack.weeks.16@ucl.ac.uk
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.6
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent

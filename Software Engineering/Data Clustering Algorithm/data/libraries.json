@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Sunnydale High School library",
+        "city": "Sunnydale",
+        "founded": 1987,
+        "books": 5000
+    },
+    {
+        "name": "RG Donation Library",
+        "city": "Sunnydale",
+        "founded": 1987,
+        "books": 5000
+    },
+    {
+        "name": "Municipal Library",
+        "city": "Frutopia",
+        "founded": 1980,
+        "books": 142
+    },
+    {
+        "name": "Town Hall Library",
+        "city": "Soledad",
+        "founded": 1999,
+        "books": 320
+    }
+]

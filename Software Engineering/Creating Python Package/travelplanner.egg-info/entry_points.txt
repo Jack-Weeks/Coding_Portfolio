@@ -1,0 +1,3 @@
+[console_scripts]
+bussimula = travelplanner.command:travel_planner_input
+

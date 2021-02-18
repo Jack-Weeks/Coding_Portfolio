@@ -1,0 +1,14 @@
+{
+    "Frutopia": {
+        "population": 100002,
+        "books": 142
+    },
+    "Sunnydale": {
+        "population": 38500,
+        "books": 10000
+    },
+    "Tigana": {
+        "population": 300002,
+        "books": 0
+    }
+}
