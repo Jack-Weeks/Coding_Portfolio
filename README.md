@@ -29,7 +29,11 @@ Information Processing in Medical Imaging (IPMI) Focused on the data pipeline fr
 into practical use. Coding tasks were centred around the registration of two or more images to one another and Image segmentation algorithms
 
 #### [Machine Learning](https://github.com/Jack-Weeks/Coding_Portfolio/tree/main/Machine%20Learning)
+- [Face and Gender Classification](https://github.com/Jack-Weeks/Coding_Portfolio/tree/main/Machine%20Learning/Face%2BGender%20Classification) - 
+Use transfer learning to develop classifiers to classify celebrity gender and cartoon face shapes.
 
+- [Segmentation Comparison](https://github.com/Jack-Weeks/Coding_Portfolio/tree/main/Machine%20Learning/Segmentation%20Comparison) - 
+Developed a U-Net which could take 2D slices or the 3D volume as an input and analyse which method is better in terms of performance and speed
 
 #### [Research Software Engineering in Python](https://github.com/Jack-Weeks/Coding_Portfolio/tree/main/Software%20Engineering)
 Learning best software development practices including use of Git, TravisCI, Pep8, Code Testing etc.
@@ -48,3 +52,4 @@ Examples of Support vector machine and Multi Layer Perceptron algorithms from Sc
 
 #### [Tennis Social Media Portfolio](https://github.com/Jack-Weeks/Coding_Portfolio/tree/main/Tennis%20Social%20Media%20Portfolio)
 - Couple of examples of creative approaches to social media marketing 
+
