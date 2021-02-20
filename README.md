@@ -8,7 +8,7 @@ The code shown serves to simulate and analyse one such system and how accuracy i
 #### [Dissertation](https://github.com/Jack-Weeks/Coding_Portfolio/tree/main/Dissertation)
 My dissertation involved the development of a quality control tool for analysing organ delineation and contouring before treatment
 this was done by developing a Convolutional Neural Network (CNN) which could accept 3D patches. Each patch was subsequently classified 
-as to whether or not it contained one of the three most commonly occuring contour artefacts as outlined by clinitians. The full report can be found
+as to whether or not it contained one of the three most commonly occuring contour artefacts as outlined by clinitians. The full report can be found [here](https://github.com/Jack-Weeks/Coding_Portfolio/blob/main/Dissertation/RT_Seg_Final_Report.pdf)
  
 - [ExtractingPatches.py](https://github.com/Jack-Weeks/Coding_Portfolio/blob/main/Dissertation/Extracting%20Patches.py) -
 Is the script used to convert the large Nifti slice structures into smaller numpy array patches.
